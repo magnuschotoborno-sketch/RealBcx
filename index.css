@@ -4,11 +4,13 @@ body{
     background-color: rgb(147, 181, 211);
 }
 button{
-    font-size: 19px;
+    font-size: 11px;
     background-color: rgb(155, 19, 182);
     cursor: pointer;
     font-family: Verdana;
+    size: 16px;
 }
 button:hover{
     background-color: rgb(238, 11, 158);
+
 }
